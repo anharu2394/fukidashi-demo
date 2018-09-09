@@ -1,0 +1,15 @@
+{
+  "env": {
+    "browser": true,
+    "jest": true,
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "semi": ["error", "always"],
+    "no-undef": "warn",
+    "indent": ["warn", 2],
+    "no-extra-semi": "warn",
+    "quotes": ["warn", "single"]
+  }
+}
