@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     const fukidashiData = {
       img: tagmaru,
-      sentences: ['こんにちはー！', 'たぐまるだよ！','よろしくね！','このWebサービスはエンジニアのための情報収集サービスだよ！','いっぱい使ってね！']
+      sentences: ['こんにちは！', 'たぐまるだよ！','よろしくね！','このWebサービスはエンジニアのための情報収集サービスだよ！','いっぱい使ってね！']
     };
     return (
       <div className="App">
